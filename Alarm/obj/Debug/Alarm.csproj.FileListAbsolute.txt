@@ -1,0 +1,10 @@
+C:\Users\x\source\repos\Alarm\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\x\source\repos\Alarm\Alarm\bin\Debug\Alarm.exe
+C:\Users\x\source\repos\Alarm\Alarm\bin\Debug\Alarm.pdb
+C:\Users\x\source\repos\Alarm\Alarm\obj\Debug\Alarm.csprojAssemblyReference.cache
+C:\Users\x\source\repos\Alarm\Alarm\obj\Debug\Alarm.Main.resources
+C:\Users\x\source\repos\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\x\source\repos\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+C:\Users\x\source\repos\Alarm\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Alarm\Alarm\obj\Debug\Alarm.exe
+C:\Users\x\source\repos\Alarm\Alarm\obj\Debug\Alarm.pdb
